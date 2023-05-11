@@ -5,7 +5,7 @@ import os
 
 
 #loading the saved model
-loaded_model=pickle.load(open("C:/Users/kakul/OneDrive/Desktop/streamlit/Heartdisease_model.sav",'rb'))
+loaded_model=pickle.load(open("Heartdisease_model.sav",'rb'))
 
 
 img = '''
